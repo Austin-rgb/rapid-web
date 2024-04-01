@@ -23,4 +23,5 @@ class Demo:
 
 demo = Demo()
 app = api2flask_app(demo)
+app.run(debug = True)
 ```
