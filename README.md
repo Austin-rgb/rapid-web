@@ -10,7 +10,7 @@ cd webapp
 ```
 ## Example code:
 
-```
+```python
 from api_server import api2flask_app
 class Demo:
   def __init__(self):
